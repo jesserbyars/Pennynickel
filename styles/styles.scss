@@ -1,0 +1,319 @@
+//COLORS
+$black: #050505;
+$white: #ffffff;
+$cream: #ddccaa;
+$gray: #888888;
+$darkblue: #10303B;
+$red: #8E1812;
+$colordark: #044404;
+$colormid: #3FC13F;
+$colorlight: #61C161;
+
+$questioncolor: #000000;
+$answercolor: #ffffff;
+
+//FONTS
+$font-stack: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+$font-stack2: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+$font-serif: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+$font-monospace: Consolas, monaco, monospace;
+
+//IMPORTS
+@import 'reset.scss';
+
+
+//MIXINS
+@mixin border-radius($radius) {
+	 -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+       -o-border-radius: $radius;
+          border-radius: $radius;
+}
+
+//MAIN SCSS
+body {
+	background-color: $white;
+	width: 100%;
+	font-family: $font-stack;
+	line-height: 1.7em;
+}
+
+#pagewrapper {
+	width: 1080px;
+	min-height: 500px;
+	margin: 0 auto;
+}
+
+//HEADER
+header {
+	background-color: $colordark;
+	color: $colorlight;
+	height: 50px;
+	width: 1080px;
+	border-bottom: 2px solid $black;
+	position: fixed;
+	top: 0px;
+	
+	#header-left {
+		float: left;
+		padding-top: 22px;
+		padding-left: 12px;
+		width: 520px;
+		h1 {
+			font-size: 170%;
+		}
+	}
+
+	#header-right {
+		float: right;
+		padding-top: 25px;
+		padding-right: 12px;
+
+		.userdata {
+			float: left;
+			margin-left: 80px;
+			font-size: 130%;
+		}
+
+		.homelink {
+			text-decoration: none;
+			color: $colorlight;
+		}
+
+		a.homelink:hover {
+			color: $black;
+			transition: all .4s;
+		}
+
+		.helplink {
+			float: left;
+			margin-left: 150px;
+			font-size: 150%;
+		}
+
+		.helplink:hover {
+			color: $black;
+			cursor: pointer;
+			transition: all .4s;
+		}
+	}
+}
+
+//CONTENT
+
+#contentwrapper {
+	top: 60px;
+	width: 1080px;
+	min-height: 300px;
+	background-color: $white;
+	line-height: 1.5em;
+}
+
+#maincontent {
+	width: 706px;
+	padding-left: 20px;
+	margin-top: 80px;
+	float: left;
+
+	h1.pageheader {
+		font-size: 170%;
+		margin-bottom: 20px;
+	}
+
+	h2.pagesubtitle {
+			font-size: 130%;
+			margin-top: -8px;
+			margin-bottom: 12px;
+		}
+
+	p.landingtext {
+		text-align: justify;
+		padding-right: 40px;
+	}
+}
+
+//NAVIGATION
+
+nav {
+	width: 354px;
+	margin-top: 120px;
+	float: right;
+	line-height: 1.7em;
+
+	#row1 {
+		width: 200px;
+		float: left;
+		border: 2px solid $colorlight;
+	}
+
+	#row2 {
+		position: relative;
+		left: -2px;
+		width: 146px;
+		float: left;
+		border: 2px solid $colorlight;
+		display: none;
+		transition: all .4s;
+	}
+
+	a.navlink.row1, a.navlink.row2 {
+		text-align: center;
+		text-decoration: none;
+		font-size: 150%;
+		float: left;
+		background-color: $colordark;
+		color: $colorlight;
+		padding: 12px 0;
+	}
+
+	a.navlink.row1 {
+		width: 200px;
+	}
+
+	a.navlink.row2 {
+		width: 146px;
+	}
+
+	a.navlink:hover {
+		background-color: $black;
+		transition: all .4s;
+	}
+
+	.bottomborder {
+		border-bottom: 2px solid $black;
+	}
+}
+
+//HELP
+
+#help {
+	display: none;
+	position: fixed;
+	top: 60px;
+	min-height: 600px;
+	border: 2px solid $black;
+	margin: 10px 20px;
+	width: 1030px;
+
+	background-color: $colormid;
+
+	#helptext {
+		padding: 10px 12px;
+		line-height: 1.5em;
+
+		h1 {
+			font-size: 160%;
+			margin-bottom: 12px;
+		}
+
+
+
+		.question {
+			font-size: 120%;
+			color: $questioncolor;
+			padding-bottom: 6px;
+			padding-top: 6px;
+			border-top: 2px dashed $questioncolor;
+		}
+
+		.answer {
+			font-size: 100%;
+			color: $answercolor;
+			padding-left: 12px;
+			padding-bottom: 12px;
+
+		}
+	}
+
+	.closehelp {
+		position: absolute;
+		right: 10px;
+		top: 4px;
+		font-size: 180%;
+	}
+	.closehelp:hover {
+		background-color: $colordark;
+		cursor: pointer;
+		transition: all .4s;
+	}
+}
+
+
+//FOOTER
+footer {
+	background-color: $colordark;
+	color: $colorlight;
+	font-size: 130%;
+	height: 30px;
+	width: 1080px;
+	border-top: 2px solid $black;
+	position: fixed;
+	bottom: 0px;
+
+	
+	#footer-left {
+		float: left;
+		padding-left: 12px;
+	}
+
+	#footer-right {
+		float: right;
+		padding-right: 12px;
+
+		#date, #time {
+			float: left;
+			padding-left: 40px;
+		}
+	}
+
+}
+
+//LOGIN
+form.loginform {
+	width: 300px;
+	padding: 12px 12px;
+	margin-top: 40px;
+	border: 2px solid $black;
+	background-color: $colordark;
+	color: $colorlight;
+
+	label {
+		font-weight: bold;
+		font-size: 115%;
+	}
+
+	input {
+		margin-bottom: 12px;
+	}
+}
+
+
+//BUTTONS AND FIELDS
+input.submitbutton {
+	background-color: $colorlight;
+	padding: 6px 12px;
+	color: $black;
+	font-size: 115%;
+}
+
+input.inputfield {
+	padding: 6px 2px;
+	font-size: 110%;
+	border: 2px solid $black;
+}
+
+//MISC
+
+.error {
+	color: $red;
+	font-family: $font-monospace;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.clear:after {
+  content: "";
+  display: table;
+  clear: both;
+}
