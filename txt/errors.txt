@@ -1,0 +1,12 @@
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-10-2014 18:00:31
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-10-2014 18:00:35
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-10-2014 18:01:00
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-10-2014 18:01:04
+

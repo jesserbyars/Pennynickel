@@ -63,28 +63,34 @@ header {
     width: 520px; }
     header #header-left h1 {
       font-size: 170%; }
+      header #header-left h1 .homelink {
+        text-decoration: none;
+        color: #61c161; }
+      header #header-left h1 a.homelink:hover {
+        color: #050505;
+        transition: all .2s; }
   header #header-right {
     float: right;
     padding-top: 25px;
     padding-right: 12px; }
-    header #header-right .userdata {
-      float: left;
-      margin-left: 80px;
+    header #header-right .headerlink {
+      float: right;
+      margin-left: 50px;
       font-size: 130%; }
     header #header-right .homelink {
       text-decoration: none;
       color: #61c161; }
     header #header-right a.homelink:hover {
       color: #050505;
-      transition: all .4s; }
+      transition: all .2s; }
     header #header-right .helplink {
-      float: left;
-      margin-left: 150px;
+      float: right;
+      margin-left: 50px;
       font-size: 150%; }
     header #header-right .helplink:hover {
       color: #050505;
       cursor: pointer;
-      transition: all .4s; }
+      transition: all .2s; }
 
 #contentwrapper {
   top: 60px;
@@ -125,7 +131,7 @@ nav {
     float: left;
     border: 2px solid #61c161;
     display: none;
-    transition: all .4s; }
+    transition: all .2s; }
   nav a.navlink.row1, nav a.navlink.row2 {
     text-align: center;
     text-decoration: none;
@@ -140,7 +146,7 @@ nav {
     width: 146px; }
   nav a.navlink:hover {
     background-color: #050505;
-    transition: all .4s; }
+    transition: all .2s; }
   nav .bottomborder {
     border-bottom: 2px solid #050505; }
 
@@ -178,7 +184,7 @@ nav {
   #help .closehelp:hover {
     background-color: #044404;
     cursor: pointer;
-    transition: all .4s; }
+    transition: all .2s; }
 
 footer {
   background-color: #044404;
@@ -224,7 +230,11 @@ input.inputfield {
   border: 2px solid #050505; }
 
 .error {
+  /*FIX THIS FOR ERROR PLACEMENT, this is temporary*/
+  display: inline-block;
+  z-index: 1000;
   color: #8e1812;
+  background-color: #050505;
   font-family: Consolas, monaco, monospace;
   font-weight: bold;
   font-size: 120%; }

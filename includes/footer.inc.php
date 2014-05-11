@@ -21,6 +21,12 @@
 
 </body>
 
-<?php mysqli_close($dbc); ?>
+<?php 
+	//flush output buffer
+	ob_end_flush();
+	//close db connection
+	mysqli_close($dbc); 
+
+?>
 
 </html>

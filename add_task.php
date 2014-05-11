@@ -7,12 +7,10 @@
 	#set variables to be used in the header
 	$page_title = "Add a new task";
 	$site_name = "Greenwell Bank Project Management";
-
-	require 'includes/functions.php';
-	require 'includes/mysqli_connect.inc.php';
-	require 'includes/session.php';
-	include 'includes/header.inc.php'; 
-
+	//set the access level for the page
+	$access_level = 2;
+	require 'includes/securepage-includes.inc.php';
+	include 'includes/header.inc.php';
 ?>
 
 <!--this is the content area-->
@@ -28,6 +26,6 @@
 
 <?php #include help and footer
 	require 'includes/help.inc.php';
-	include 'includes/footer.inc.php'; 
+	require 'includes/footer.inc.php'; 
 ?>
 		

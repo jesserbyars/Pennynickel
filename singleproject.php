@@ -5,10 +5,10 @@
 	#Due Date   : 06/2014
 
 	#set variables to be used in the header
-	$page_title = "Create Project";
+	$page_title = "Project View";
 	$site_name = "Greenwell Bank Project Management";
 	//set the access level for the page
-	$access_level = 2;
+	$access_level = 1;
 	require 'includes/securepage-includes.inc.php';
 	include 'includes/header.inc.php';
 ?>
@@ -16,8 +16,8 @@
 <!--this is the content area-->
 
 	<section id="maincontent" class="clear">
-		<h1 class="pageheader">Create New Project</h1>
-		<p>This is the create project view.</p>
+		<h1 class="pageheader">Project View</h1>
+		<!--echo the project name as a page subtitle-->
 		
 	</section><!--end of maincontent-->
 

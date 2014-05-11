@@ -9,6 +9,7 @@ $colordark: #044404;
 $colormid: #3FC13F;
 $colorlight: #61C161;
 
+
 $questioncolor: #000000;
 $answercolor: #ffffff;
 
@@ -62,6 +63,16 @@ header {
 		width: 520px;
 		h1 {
 			font-size: 170%;
+
+			.homelink {
+			text-decoration: none;
+			color: $colorlight;
+			}
+
+			a.homelink:hover {
+				color: $black;
+				transition: all .2s;
+			}
 		}
 	}
 
@@ -70,9 +81,9 @@ header {
 		padding-top: 25px;
 		padding-right: 12px;
 
-		.userdata {
-			float: left;
-			margin-left: 80px;
+		.headerlink {
+			float: right;
+			margin-left: 50px;
 			font-size: 130%;
 		}
 
@@ -83,19 +94,19 @@ header {
 
 		a.homelink:hover {
 			color: $black;
-			transition: all .4s;
+			transition: all .2s;
 		}
 
 		.helplink {
-			float: left;
-			margin-left: 150px;
+			float: right;
+			margin-left: 50px;
 			font-size: 150%;
 		}
 
 		.helplink:hover {
 			color: $black;
 			cursor: pointer;
-			transition: all .4s;
+			transition: all .2s;
 		}
 	}
 }
@@ -154,7 +165,7 @@ nav {
 		float: left;
 		border: 2px solid $colorlight;
 		display: none;
-		transition: all .4s;
+		transition: all .2s;
 	}
 
 	a.navlink.row1, a.navlink.row2 {
@@ -177,7 +188,7 @@ nav {
 
 	a.navlink:hover {
 		background-color: $black;
-		transition: all .4s;
+		transition: all .2s;
 	}
 
 	.bottomborder {
@@ -235,7 +246,7 @@ nav {
 	.closehelp:hover {
 		background-color: $colordark;
 		cursor: pointer;
-		transition: all .4s;
+		transition: all .2s;
 	}
 }
 
@@ -306,7 +317,11 @@ input.inputfield {
 //MISC
 
 .error {
+	/*FIX THIS FOR ERROR PLACEMENT, this is temporary*/
+	display: inline-block;
+	z-index: 1000;
 	color: $red;
+	background-color: $black;
 	font-family: $font-monospace;
 	font-weight: bold;
 	font-size: 120%;

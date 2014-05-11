@@ -16,7 +16,8 @@
 			} else if($role>3) {
 				$defaultpage = "users.php";
 			}
-			header("Location: $defaultpage");
+			$l = BASEURL . "/" . $defaultpage;
+			header("Location: $l");
 		}
 	}
 ?>

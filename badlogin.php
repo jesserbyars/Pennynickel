@@ -5,19 +5,18 @@
 	#Due Date   : 06/2014
 
 	#set variables to be used in the header
-	$page_title = "Create Project";
+	$page_title = "Login Error";
 	$site_name = "Greenwell Bank Project Management";
 	//set the access level for the page
-	$access_level = 2;
-	require 'includes/securepage-includes.inc.php';
+	$access_level = -1;
 	include 'includes/header.inc.php';
 ?>
 
 <!--this is the content area-->
 
 	<section id="maincontent" class="clear">
-		<h1 class="pageheader">Create New Project</h1>
-		<p>This is the create project view.</p>
+		<h1 class="pageheader">Login Error</h1>
+		<?php echo "<p class=\"error\">Invalid Login!</p>\n"; ?>
 		
 	</section><!--end of maincontent-->
 
