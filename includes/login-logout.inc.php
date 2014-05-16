@@ -27,11 +27,12 @@
 				$user_id = $_SESSION['user_id'];
 				$username = $_SESSION['username'];
 				$role = $_SESSION['role'];
-			}		
-		}
-		else {
+			} else {
+				$loginerror = "Invalid Username/Password Combination";
+			}
+		} else {
 			session_destroy();
-			$loginerror = "Invalid Username/Password Combination";
+			$loginerror = "Username/Password field was empty";
 		}
 	}
 ?>

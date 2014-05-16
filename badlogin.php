@@ -16,7 +16,7 @@
 
 	<section id="maincontent" class="clear">
 		<h1 class="pageheader">Login Error</h1>
-		<?php echo "<p class=\"error\">Invalid Login!</p>\n"; ?>
+		<?php $errors[] = "Invalid Login!"; ?>
 		
 	</section><!--end of maincontent-->
 

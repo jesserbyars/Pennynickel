@@ -1,5 +1,13 @@
 <?php #footer.inc.php ?>
 
+		<?php
+			if(!empty($errors)) {
+				foreach($errors as $e) {
+					echo "<p class=\"error\">$e</p>\n<br>\n";
+				}
+			}
+		?>
+
 		</section><!--end of contentwrapper-->
 
 	<footer>

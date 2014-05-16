@@ -16,8 +16,10 @@
 <!--this is the content area-->
 
 	<section id="maincontent" class="clear">
+		
 		<h1 class="pageheader">Your Projects</h1>
 		<p>This is the projects view.</p>
+
 	</section><!--end of maincontent-->
 
 	<?php include 'includes/nav.inc.php'; ?>	

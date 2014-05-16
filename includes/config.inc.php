@@ -10,6 +10,7 @@
 
 	//ERROR MANAGEMENT
 	function pennynickel_errors($e_number, $e_message, $e_file, $e_line, $e_vars) {
+		global $errors;
 		$message = "An error occurred in script '$e_file' on line $e_line: $e_message\n";
 		$message .= "Date/Time: " . date('n-j-Y H:i:s') . "\n\n";
 
@@ -24,7 +25,8 @@
 		} else {
 			//log the error to the database if the site is live
 			if ($e_number != E_NOTICE) {
-				echo '<p class="error">System Error!</p>';
+				$errors[] = 'System Error!';
+				//errors are reported in the footer.inc.php file
 			}
 
 			$file = 'txt/errors.txt';

@@ -190,3 +190,93 @@ Date/Time: 5-15-2014 14:46:34
 An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: mysqli_real_escape_string() expects parameter 1 to be mysqli, string given
 Date/Time: 5-15-2014 14:46:34
 
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:13:44
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:14:21
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:15:44
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:16:40
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:16:45
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:18:19
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:19:02
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:19:02
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:19:02
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:19:27
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:19:27
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:19:27
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:21:31
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:21:31
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:21:31
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:22:38
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:22:38
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:22:38
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:22:57
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:22:57
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:22:57
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 24: Division by zero
+Date/Time: 5-15-2014 21:23:20
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Undefined variable: a
+Date/Time: 5-15-2014 21:23:20
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\projects.php' on line 25: Invalid argument supplied for foreach()
+Date/Time: 5-15-2014 21:23:20
+

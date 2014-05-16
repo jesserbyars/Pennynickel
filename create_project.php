@@ -30,11 +30,12 @@
 					$l = BASEURL . "/projects.php";
 					header("Location: $l");
 				} else {
+					$errors[] = "Database error!";
 					echo "<p class=\"error\">0 affected Rows!</p>";
 				}
 
 			} else {
-				echo "<p class=\"error\">Insert Failed!$pn, $pd, $status, $duedate, $uid</p>";
+				$errors[] = "Please check the input and try again!";
 			}
 		}
 	?>

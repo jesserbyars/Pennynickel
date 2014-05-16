@@ -377,6 +377,9 @@ input.inputfield {
 	position: relative;
 	display: inline-block;
 	z-index: 1000;
+	width: 300px;
+	border: 2px solid $red;
+	padding: 6px;
 	color: $red;
 	background-color: $black;
 	font-family: $font-monospace;
