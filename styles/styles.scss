@@ -129,7 +129,7 @@ header {
 
 	h1.pageheader {
 		font-size: 170%;
-		margin-bottom: 20px;
+		margin-bottom: 14px;
 	}
 
 	h2.pagesubtitle {
@@ -141,6 +141,62 @@ header {
 	p.landingtext {
 		text-align: justify;
 		padding-right: 40px;
+	}
+
+}
+
+//"CREATE" PAGES
+#maincontent {
+
+	#createproject {
+		background-color: $colordark;
+		border: 2px solid $colormid;
+		width: 640px;
+		height: 400px;
+
+		#projectname {
+			width: 300px;
+		}
+
+		#projectstatus {
+			margin-right: 18px;
+		}
+
+		.submitbutton {
+			position: absolute;
+			right: 10px;
+			bottom: -80px;
+		}
+
+	}
+
+	.inputform {
+		position: relative;
+		color: $colormid;
+		padding: 10px 20px;
+		font-size: 140%;
+		font-weight: bold;
+
+		input {
+			padding: 3px 2px;
+			border: 2px solid $black;
+			font-size: 85%;
+		}
+
+		textarea {
+			padding: 3px 2px;
+			border: 2px solid $black;
+			font-size: 105%;
+			color: $black;
+			font-weight: bold;
+		}
+		
+		select {
+			padding: 3px 2px;
+			border: 2px solid $black;
+			font-size: 80%;
+		}
+		
 	}
 }
 
@@ -318,6 +374,7 @@ input.inputfield {
 
 .error {
 	/*FIX THIS FOR ERROR PLACEMENT, this is temporary*/
+	position: relative;
 	display: inline-block;
 	z-index: 1000;
 	color: $red;

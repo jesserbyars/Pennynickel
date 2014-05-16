@@ -10,3 +10,183 @@ Date/Time: 5-10-2014 18:01:00
 An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
 Date/Time: 5-10-2014 18:01:04
 
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\includes\header.inc.php' on line 57: Undefined variable: rolename
+Date/Time: 5-11-2014 23:48:12
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-11-2014 23:48:13
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-11-2014 23:48:22
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-11-2014 23:48:33
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-11-2014 23:48:43
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-11-2014 23:48:49
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-11-2014 23:49:20
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\includes\header.inc.php' on line 57: Undefined variable: rolename
+Date/Time: 5-12-2014 02:00:44
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:00:49
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:01:10
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:01:57
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:02:38
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:49:13
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:49:42
+
+An error occurred in script 'M:\UniServerZ\www\PHP 2\Final-Pennynickel\2\projects.php' on line 23: Division by zero
+Date/Time: 5-12-2014 02:50:14
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status_id
+Date/Time: 5-15-2014 14:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: description
+Date/Time: 5-15-2014 14:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status
+Date/Time: 5-15-2014 14:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: Undefined variable: mysqli_fetch_array
+Date/Time: 5-15-2014 14:22:54
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status_id
+Date/Time: 5-15-2014 14:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: description
+Date/Time: 5-15-2014 14:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status
+Date/Time: 5-15-2014 14:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: Undefined variable: mysqli_fetch_array
+Date/Time: 5-15-2014 14:23:07
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status_id
+Date/Time: 5-15-2014 14:25:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: description
+Date/Time: 5-15-2014 14:25:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status
+Date/Time: 5-15-2014 14:25:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:25:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:25:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+Date/Time: 5-15-2014 14:25:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status_id
+Date/Time: 5-15-2014 14:26:17
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: description
+Date/Time: 5-15-2014 14:26:17
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php' on line 36: Undefined variable: status
+Date/Time: 5-15-2014 14:26:17
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:26:17
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:26:17
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+Date/Time: 5-15-2014 14:26:17
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:26:59
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:26:59
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+Date/Time: 5-15-2014 14:26:59
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:27:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:27:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+Date/Time: 5-15-2014 14:27:04
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: Undefined variable: dbc
+Date/Time: 5-15-2014 14:27:08
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 8: mysqli_query() expects parameter 1 to be mysqli, null given
+Date/Time: 5-15-2014 14:27:08
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 9: mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given
+Date/Time: 5-15-2014 14:27:08
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 2: Missing argument 2 for sanitize(), called in C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php on line 21 and defined
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: Undefined variable: string
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: mysqli_real_escape_string() expects parameter 1 to be mysqli, string given
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 2: Missing argument 2 for sanitize(), called in C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php on line 22 and defined
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: Undefined variable: string
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: mysqli_real_escape_string() expects parameter 1 to be mysqli, string given
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 2: Missing argument 2 for sanitize(), called in C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php on line 23 and defined
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: Undefined variable: string
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: mysqli_real_escape_string() expects parameter 1 to be mysqli, string given
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 2: Missing argument 2 for sanitize(), called in C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\create_project.php on line 24 and defined
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: Undefined variable: string
+Date/Time: 5-15-2014 14:46:34
+
+An error occurred in script 'C:\UniServerZ\www\PHP 2\Final-Pennynickel\3\includes\functions.inc.php' on line 3: mysqli_real_escape_string() expects parameter 1 to be mysqli, string given
+Date/Time: 5-15-2014 14:46:34
+

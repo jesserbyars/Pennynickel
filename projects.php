@@ -20,8 +20,6 @@
 		<p>This is the projects view.</p>
 	</section><!--end of maincontent-->
 
-	<?php $a = 1/0; ?>
-
 	<?php include 'includes/nav.inc.php'; ?>	
 
 <?php #include help and footer

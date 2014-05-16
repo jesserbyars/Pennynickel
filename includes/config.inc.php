@@ -1,7 +1,7 @@
 <?php
 
 	//DEFINE SITE CONSTANTS
-	define("LIVE", TRUE);
+	define("LIVE", FALSE);
 	$url = 'http://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']);
 	define("BASEURL", $url);
 
@@ -19,6 +19,8 @@
 			echo '<pre>' . print_r ($e_vars, 1) . "\n";
 			debug_print_backtrace();
 			echo '</pre></p>\n';
+			$file = 'txt/errors.txt';
+			file_put_contents($file, $message, FILE_APPEND | LOCK_EX);
 		} else {
 			//log the error to the database if the site is live
 			if ($e_number != E_NOTICE) {

@@ -106,7 +106,7 @@ header {
   float: left; }
   #maincontent h1.pageheader {
     font-size: 170%;
-    margin-bottom: 20px; }
+    margin-bottom: 14px; }
   #maincontent h2.pagesubtitle {
     font-size: 130%;
     margin-top: -8px;
@@ -114,6 +114,40 @@ header {
   #maincontent p.landingtext {
     text-align: justify;
     padding-right: 40px; }
+
+#maincontent #createproject {
+  background-color: #044404;
+  border: 2px solid #3fc13f;
+  width: 640px;
+  height: 400px; }
+  #maincontent #createproject #projectname {
+    width: 300px; }
+  #maincontent #createproject #projectstatus {
+    margin-right: 18px; }
+  #maincontent #createproject .submitbutton {
+    position: absolute;
+    right: 10px;
+    bottom: -80px; }
+#maincontent .inputform {
+  position: relative;
+  color: #3fc13f;
+  padding: 10px 20px;
+  font-size: 140%;
+  font-weight: bold; }
+  #maincontent .inputform input {
+    padding: 3px 2px;
+    border: 2px solid #050505;
+    font-size: 85%; }
+  #maincontent .inputform textarea {
+    padding: 3px 2px;
+    border: 2px solid #050505;
+    font-size: 105%;
+    color: #050505;
+    font-weight: bold; }
+  #maincontent .inputform select {
+    padding: 3px 2px;
+    border: 2px solid #050505;
+    font-size: 80%; }
 
 nav {
   width: 354px;
@@ -231,6 +265,7 @@ input.inputfield {
 
 .error {
   /*FIX THIS FOR ERROR PLACEMENT, this is temporary*/
+  position: relative;
   display: inline-block;
   z-index: 1000;
   color: #8e1812;

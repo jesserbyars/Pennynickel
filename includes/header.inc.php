@@ -54,6 +54,7 @@
 
 				<?php 
 					if(isset($loggedin) && $loggedin==1) {
+						$rolename = isset($rolename) ? $rolename : "";
 						echo "<p class=\"headerlink\"><a href=\"singleuser.php\" class=\"homelink\">$rolename</a></p>\n";
 						echo "<p class=\"headerlink\"><a href=\"index.php\" class=\"homelink\">$username</a></p>\n";
 					}
